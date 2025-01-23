@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Simple_BankingApp/static/css/main.a36e45c6.css",
+    "main.js": "/Simple_BankingApp/static/js/main.a43d8b92.js",
+    "index.html": "/Simple_BankingApp/index.html",
+    "main.a36e45c6.css.map": "/Simple_BankingApp/static/css/main.a36e45c6.css.map",
+    "main.a43d8b92.js.map": "/Simple_BankingApp/static/js/main.a43d8b92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a36e45c6.css",
+    "static/js/main.a43d8b92.js"
+  ]
+}
